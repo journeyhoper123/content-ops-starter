@@ -50,7 +50,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-slug: 'Cheap-Hotels-in-India '
+slug: Cheap-Hotels-in-India
 isFeatured: false
 isDraft: false
 seo:

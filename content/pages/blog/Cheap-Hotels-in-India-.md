@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/7.webp
-  altText: Thumbnail
+  altText: journey hoper
   elementId: ''
   styles:
     self:

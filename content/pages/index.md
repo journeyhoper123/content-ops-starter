@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: Cheap Hotels in India for Comfortable Family & Solo Stays
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here

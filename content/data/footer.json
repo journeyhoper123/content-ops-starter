@@ -40,17 +40,8 @@
         "title": "Company",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "label": "Blog",
-                "url": "/blog",
+                "url": "https://www.journeyhoper.com/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
